@@ -1,5 +1,4 @@
 "use strict";
-// percentage program using if,else if and else
 let percentage = "57.2";
 if (percentage >= "90") {
     console.log("A-one Grade");
